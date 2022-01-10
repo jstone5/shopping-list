@@ -3,3 +3,5 @@
 - Triskets
 - Hummus
 - Steaks
+- Potatoes
+- Bananas
